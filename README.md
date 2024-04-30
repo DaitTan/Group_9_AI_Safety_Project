@@ -1,6 +1,7 @@
 # Group 9 AI Safety Project
 
 Please refer to the report for more details.
+Team Members: Tanmay Khandait, Kishore Ramesh, Vennela Kudala
 
 # Installation
 We use the Poetry tool which is a dependency management and packaging tool in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you. Please follow the installation of poetry at [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
@@ -25,7 +26,7 @@ Part-X Codebase taken from [https://github.com/cpslab-asu/part-x/tree/main](http
 ```
 # Running the codes
 
-All the plots and the csv files have been generated. Data could not be uploaded since the the toal upload size exceeded 5GB.
+All the plots and the csv files have been generated. Data could not be uploaded since the total upload size exceeded 5GB.
 
 ## To train the controller:
 
