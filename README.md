@@ -1,4 +1,6 @@
-# Group_9_AI_Safety_Project
+# Group 9 AI Safety Project
+
+Please refer to the report for more details.
 
 # Installation
 We use the Poetry tool which is a dependency management and packaging tool in Python. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you. Please follow the installation of poetry at [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
